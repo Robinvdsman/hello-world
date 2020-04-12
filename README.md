@@ -1,2 +1,5 @@
 # hello-world
-First repository to deploy on Github
+
+Hi Folks,
+
+My name is Robin and i want to start learning computer science.
